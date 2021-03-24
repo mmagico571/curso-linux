@@ -3,6 +3,7 @@
 ## comandos
 * chmod: cambio de propietario
 * chgrp: cambio de grupo
+* chown: cambio de persmisos
 
 ## Tipos de identidad
 
@@ -19,7 +20,11 @@ A cada uno de estos tipos de identidad se le pueden agregar algunos permiso
 
 ![permisos](img/permisos.jpeg)
 
-## cambio de valores en los permisos
+## Cambio de valores en los permisos
+
+![](img/permisos2.jpeg)
+
+
 
 
 
