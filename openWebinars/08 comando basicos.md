@@ -19,7 +19,7 @@ Los comando se pueden ejecutar tambien en el directorio de la aplicacion.
 	* -s tamaño de los archivos en bytes
 	* -R recursivo
 	* -d contenidos de directorios
-* rv: renombrar una carpeta
+* mv: renombrar una carpeta
 
 ## rutas
 1. rutas relativas
