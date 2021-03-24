@@ -2,14 +2,15 @@
 
 ## Comandos
 
-pwd: directorio en el que nos localizamos actualmente en la consola.
-echo: la epleamos para mostrar textos en pantalla.
-alias: crea un nombre alternativo para un comando.
-exec: ejecucion de un programa especificado.
-env: muestra todas la variables de entorno del sistema.
-export: crea una variable de entorno global.
-set: mustra mas variables de entorno que no se muestran por el comando  env.
-unset:elimina una variable de entorno.
+* pwd: directorio en el que nos localizamos actualmente en la consola.
+* echo: la epleamos para mostrar textos en pantalla.
+* alias: crea un nombre alternativo para un comando.
+* exec: ejecucion de un programa especificado.
+* env: muestra todas la variables de entorno del sistema.
+* export: crea una variable de entorno global.
+* set: mustra mas variables de entorno que no se muestran por el comando  env.
+* unset:elimina una variable de entorno.
+
 ## navegacion
 
 1. tabulador: autoplenta un comando.
@@ -27,6 +28,3 @@ unset:elimina una variable de entorno.
 5. PWD: muestra el directorio en el que estamos trabajando.
 6. HOME: almacena el home del usuario.
 7. LANGUAGE: lenguaje utilzado por el sistema.
-
-
-
