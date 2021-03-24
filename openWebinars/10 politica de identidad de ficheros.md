@@ -17,7 +17,7 @@ A cada uno de estos tipos de identidad se le pueden agregar algunos permiso
 * x ejecucion(valor permiso 1)
 	* - (valor permiso 0)
 
-![permisos](/img/permisos.jpeg)
+![permisos](img/permisos.jpeg)
 
 ## cambio de valores en los permisos
 
