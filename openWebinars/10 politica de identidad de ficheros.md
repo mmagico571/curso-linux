@@ -1,9 +1,9 @@
 # Politica de identidad de ficheros
 
 ## comandos
-* chmod: cambio de propietario
+* chmod: cambio de permisos
 * chgrp: cambio de grupo
-* chown: cambio de persmisos
+* chown: cambio de propietario
 
 ## Tipos de identidad
 
